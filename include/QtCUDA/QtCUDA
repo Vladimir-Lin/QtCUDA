@@ -1,0 +1,6 @@
+#ifndef CIOS_CUDA_HPP
+#define CIOS_CUDA_HPP
+
+#include "qtcuda.h"
+
+#endif
